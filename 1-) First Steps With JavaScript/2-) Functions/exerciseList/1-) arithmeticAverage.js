@@ -1,0 +1,33 @@
+// 1) Faça um algorítimo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a sua média e a sua classificação conforme a tabela abaixo.
+
+// Média = (nota 1 + nota 2 + nota 3) / 3;
+
+// Classificação:
+// - Média menor que 5, reprovação;
+// - Média entre 5 e 7, recuperação;
+// - Média acima de 7, passou de semestre;
+
+function calculateAverage(firstGrade, secondGrade, thirdGrade){
+  return ((firstGrade + secondGrade + thirdGrade) / 3);
+}
+
+function verifyClassification(gradeAverage){
+  if (gradeAverage >= 7){
+    return "Aprovado";
+  } else if (gradeAverage >= 5){
+    return "de Recuperação";
+  } else {
+    return "Reprovado";
+  }
+}
+
+(function(){
+  const firstGrade = 10;
+  const secondGrade = 8;
+  const thirdGrade = 6;
+
+  const gradeAverage = calculateAverage(firstGrade, secondGrade, thirdGrade);
+  const classification = verifyClassification(gradeAverage);
+
+  console.log(`Sua média é de ${gradeAverage} e você está ${classification}!`);
+})();
