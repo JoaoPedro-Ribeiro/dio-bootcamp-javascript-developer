@@ -13,3 +13,9 @@ I'm watching DIO's javascript developer formation classes to learn this language
 - Operators ✅<br>
 - Conditional Structures ✅<br>
 - Functions ✅<br>
+- Objects ✅<br>
+- Classes ✅<br>
+- Arrays ✅<br>
+- Repetition Statements ✅<br>
+- Import ✅<br>
+- Export ✅<br>
