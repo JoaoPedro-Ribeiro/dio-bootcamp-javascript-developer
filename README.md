@@ -19,3 +19,12 @@ I'm watching DIO's javascript developer formation classes to learn this language
 - Repetition Statements ✅<br>
 - Import ✅<br>
 - Export ✅<br>
+
+<h3> 2- JavaScript for Web </h3>
+- HTTP Protocol ✅<br>
+- HTML Manipulation ✅<br>
+- Arrow Function ✅<br>
+- Promises ✅<br>
+- Fetch ✅<br>
+- Map ✅<br>
+- Consume APIs ✅<br>
