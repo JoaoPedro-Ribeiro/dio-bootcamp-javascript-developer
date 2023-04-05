@@ -24,7 +24,16 @@ I'm watching DIO's javascript developer formation classes to learn this language
 - HTTP Protocol ✅<br>
 - HTML Manipulation ✅<br>
 - Arrow Function ✅<br>
-- Promises ✅<br>
+z
 - Fetch ✅<br>
-- Map ✅<br>
 - Consume APIs ✅<br>
+
+<h3> 3- Advanced concepts </h3>
+- Hoisting ✅<br>
+- Data Types ✅<br>
+- Prototypes ✅<br>
+- Closure ✅<br>
+- Foreach ✅<br>
+- Filter ✅<br>
+- Map ✅<br>
+- Async Await ✅<br>
