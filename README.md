@@ -24,7 +24,6 @@ I'm watching DIO's javascript developer formation classes to learn this language
 - HTTP Protocol ✅<br>
 - HTML Manipulation ✅<br>
 - Arrow Function ✅<br>
-z
 - Fetch ✅<br>
 - Consume APIs ✅<br>
 
